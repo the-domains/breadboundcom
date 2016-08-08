@@ -1,4 +1,3 @@
-layout_spectrum: 0.1307929870672524
 typography_spectrum: 0.07123890006914735
 color:
   brandStrength: 0.27732558408752084
@@ -11,4 +10,7 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
+layout_spectrum: 0.1307929870672524
 name: Breadbound.com
+title: Breadbound
+description: Guides to better bread
