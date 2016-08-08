@@ -11,6 +11,13 @@ color:
     - '#EDB88B'
     - '#FAD8D6'
 layout_spectrum: 0.1307929870672524
-name: Breadbound.com
-title: Breadbound
+author:
+  name: Roel van der Ven
+  url: 'http://roelvanderven.com'
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/4c3bc4e4-e9ce-452e-9ff0-2a8dd429d7a6.png
+name: Breadbound
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/9f6e3920-2651-43ea-91e7-a64b49ca2ab3.png
+title: Guides to better Bread
 description: Guides to better bread
