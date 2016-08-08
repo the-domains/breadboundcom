@@ -6,9 +6,10 @@ color:
   saturation: 0.5028044036589563
   rhythmicContrast: 0.6150554555933923
   brandColors:
-    - '#304269'
-    - '#91BED4'
-    - '#D9E8F5'
-    - '#FFFFFF'
-    - '#F26101'
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
 name: Breadbound.com
+title: Breadbound
